@@ -1,1 +1,1 @@
-# IrisClassifier
+This repository contains a simple yet powerful Iris Flowers Classifier Model developed using Logistic Regression. The model is designed to classify Iris flowers into three species: Iris setosa, Iris versicolor, and Iris virginica. This project serves as a beginner-friendly introduction to machine learning and classification techniques.
